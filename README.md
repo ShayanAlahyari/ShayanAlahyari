@@ -7,10 +7,8 @@
 I completed my Bachelor in Computer Science and now I'm studying Master of Science in Computer Science at Western. I also hold a Bachelor in Electrical Engineering and have worked as an Electrical Engineer and Financial Analyst before pursuing my second Bachelor at Western.
 
 - 🌱 My main area of expertise and what I will be focusing on in my Master's degree is **Machine Learning**.
-- 🔭 I have done a summer project with my professor, which I will include as a repository.
 - 💬 Ask me about **Machine Learning, Data Science, and Full-Stack Development**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shayan-alahyari-775b3b201)
-- ⚡ Fun fact: I love hiking and reading sci-fi novels.
 
 ## 🛠️ Technical Skills
 
