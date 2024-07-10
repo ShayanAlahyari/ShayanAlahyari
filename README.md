@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I completed my Bachelor in Computer Science and now I'm studying Master of Science in Computer Science at Western. I also hold a Bachelor in Electrical Engineering and have worked as an Electrical Engineer and Financial Analyst before pursuing my second Bachelor at Western.
+I completed my Bachelor in Computer Science and now I'm studying Master of Science in Computer Science at Western University. I also hold a Bachelor in Electrical Engineering and have worked as an Electrical Engineer and Financial Analyst before pursuing my second Bachelor at Western.
 
 - 🌱 My main area of expertise and what I will be focusing on in my Master's degree is **Machine Learning**.
 - 💬 Ask me about **Machine Learning, Data Science, and Full-Stack Development**.
